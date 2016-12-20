@@ -19,7 +19,6 @@ This tutorial provides methods for installing virtual machines on Mac
     Mac OS
     Virtual Box
 
-图2.5.png
 
 
 
